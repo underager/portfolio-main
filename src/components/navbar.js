@@ -4,7 +4,7 @@ const navbar = () => {
     return (
         <div>
             <ul className='navbarList'>
-                <li><a>Home</a></li>
+                <li>Home</li>
                 <li>Projects</li>
                 <li>Blogs</li>
                 <li>Magic</li>
