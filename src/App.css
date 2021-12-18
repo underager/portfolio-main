@@ -1,7 +1,32 @@
 body {
-  background-color: #87965d;
+  background-color: #b1b7c8e3;
 }
 
 .navbarList {
   list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 30px;
+  margin: 0;
+}
+
+.introduction {
+  padding: 20px;
+}
+
+.profile-links-div {
+  padding: 20px;
+}
+
+.profile-links-div ul {
+  list-style: none;
+  line-height: 2;
+}
+
+.profile-links-div ul li a {
+  color: #04174d;
+  text-decoration: none;
+  font-size: 1.2em;
 }
