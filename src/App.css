@@ -1,5 +1,5 @@
 body {
-  background-color: #b1b7c8e3;
+  background-color: #a4b4df;
 }
 
 .navbarList {
@@ -10,6 +10,14 @@ body {
   align-items: center;
   padding: 30px;
   margin: 0;
+}
+
+.navbarList a {
+  text-decoration: none;
+  color: rgb(252, 252, 252);
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
 }
 
 .introduction {
